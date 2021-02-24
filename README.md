@@ -1,6 +1,12 @@
+- [Coding-Lv2](#coding-lv2)
+  - [Information and Rules](#information-and-rules)
+  - [Schedule](#schedule)
+- [Contents](#contents)
+  - [Graph](#graph)
+
 # Coding-Lv2
 
-## Info 
+## Information and Rules 
 * Meeting : 매주 수요일 9시
   * 1부 : ACMIC 문제 풀이
   * 2부 : Programmers 문제 풀기 
@@ -14,4 +20,17 @@
 ## Schedule
 
 1. Week1 : Graph 
-2. 
+2. Week2 : Graph 
+
+
+# Contents 
+
+## Graph 
+
+|Problem|Description|Solution|
+|---|---|---|
+적록색약 |  
+네트워크 연결|
+이분 그래프| 2-coloring을 이용해서 이분 그래프의 여부를 찾는 문제 | [Solved by Bumjin](https://github.com/PySolve/bumjin)
+지름길| 
+
