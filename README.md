@@ -31,6 +31,6 @@
 |---|---|---|
 적록색약 |  
 네트워크 연결|
-이분 그래프| 2-coloring을 이용해서 이분 그래프의 여부를 찾는 문제 | [Solved by Bumjin](https://github.com/PySolve/bumjin/tree/main/problems/%EC%9D%B4%EB%B6%84%EA%B7%B8%EB%9E%98%ED%94%84)
+[이분 그래프](https://www.acmicpc.net/problem/10026)| 2-coloring을 이용해서 이분 그래프의 여부를 찾는 문제 | [Solved by Bumjin](https://github.com/PySolve/bumjin/tree/main/problems/%EC%9D%B4%EB%B6%84%EA%B7%B8%EB%9E%98%ED%94%84)
 지름길| 
 
