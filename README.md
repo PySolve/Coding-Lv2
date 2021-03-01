@@ -35,3 +35,10 @@
 지름길|
 [DP](https://www.acmicpc.net/problem/1446)| DP 문제 | [Solved by Minjoon](https://github.com/PySolve/MinJoon/blob/master/%EC%A7%80%EB%A6%84%EA%B8%B8.py)
 
+## DP 
+|Problem|Description|Solution|
+|---|---|---|
+이모티콘 |  
+줄어들지 않아|
+알약 |
+카드구매하기|
