@@ -38,7 +38,7 @@
 ## DP 
 |Problem|Description|Solution|
 |---|---|---|
-이모티콘 |경우의 수를 탐색하는 문제 + BackTracking으로 빠르게 종료하기|[[Solved by Bumjin](https://github.com/PySolve/bumjin/tree/main/problems/14226_%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98)
+이모티콘 |경우의 수를 탐색하는 문제 + BackTracking으로 빠르게 종료하기|[Solved by Bumjin](https://github.com/PySolve/bumjin/tree/main/problems/14226_%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98)
 줄어들지 않아|
 알약 |
 카드구매하기|
