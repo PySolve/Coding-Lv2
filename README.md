@@ -41,4 +41,4 @@
 이모티콘 |경우의 수를 탐색하는 문제 + BackTracking으로 빠르게 종료하기|[Solved by Bumjin](https://github.com/PySolve/bumjin/tree/main/problems/14226_%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98)
 줄어들지 않아|
 알약 |
-[카드구매하기](https://www.acmicpc.net/problem/11052)|[Solved by Yujin](https://github.com/PySolve/Yujin/tree/main/Problems/%EC%B9%B4%EB%93%9C%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0)
+[카드구매하기](https://www.acmicpc.net/problem/11052)||[Solved by Yujin](https://github.com/PySolve/Yujin/tree/main/Problems/%EC%B9%B4%EB%93%9C%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0)
