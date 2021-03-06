@@ -29,7 +29,7 @@
 
 |Problem|Description|Solution|
 |---|---|---|
-적록색약 |  
+[적록색약](https://www.acmicpc.net/problem/10026)| BFS 문제 | [Solved by Minchan](https://github.com/PySolve/minchan/blob/master/Week1/10026_%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py)
 네트워크 연결|
 [이분 그래프](https://www.acmicpc.net/problem/10026)| 2-coloring을 이용해서 이분 그래프의 여부를 찾는 문제 | [Solved by Bumjin](https://github.com/PySolve/bumjin/tree/main/problems/%EC%9D%B4%EB%B6%84%EA%B7%B8%EB%9E%98%ED%94%84)
 지름길|
@@ -39,6 +39,6 @@
 |Problem|Description|Solution|
 |---|---|---|
 이모티콘 |경우의 수를 탐색하는 문제 + BackTracking으로 빠르게 종료하기|[Solved by Bumjin](https://github.com/PySolve/bumjin/tree/main/problems/14226_%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98)
-줄어들지 않아|
+[줄어들지 않아](https://www.acmicpc.net/problem/2688)| Bottom-Up 방식의 DP 문제 | [Solved by Minchan](https://github.com/PySolve/minchan/blob/master/Week2/2688_%EC%A4%84%EC%96%B4%EB%93%A4%EC%A7%80%20%EC%95%8A%EC%95%84.py)
 알약 |
 [카드구매하기](https://www.acmicpc.net/problem/11052)||[Solved by Yujin](https://github.com/PySolve/Yujin/tree/main/Problems/%EC%B9%B4%EB%93%9C%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0)
