@@ -1,14 +1,6 @@
 # Coding-Lv2
 
-## Information and Rules 
-* Meeting : 매주 수요일 9시
-  * 1부 : ACMIC 문제 풀이
-  * 2부 : Programmers 문제 풀기 
-* 매주 숙제 : https://www.acmicpc.net/group/practice/10371
-* 벌금
-  * 지각 : 5 분당 1000원 
-  * 결석 : 4000원
-  * 문제풀이 최소 3번 시도 : 개당 500원
+
  
 
 ## Next Homewok 📝
@@ -25,14 +17,26 @@
 |1789_수들의 합|
 |11723_집합|
 
+--- 
 
+## Information and Rules 
+* Meeting : 매주 수요일 9시 15분
+  * 1부 : ACMIC 문제 풀이
+  * 2부 : Programmers 문제 풀기 
+* 매주 숙제 : https://www.acmicpc.net/group/practice/10371
+* 벌금
+  * 지각 : 5 분당 1000원 
+  * 결석 : 4000원
+  * 문제풀이 최소 3번 시도 : 개당 500원
 
-## Schedule
+## Timeline 🚡
 
 1. Week1 : Graph 
 2. Week2 : Dynamic Programming 
 3. Week3 : DP One more time
 4. Week4 : DP detail
+
+---
 
 # Past Problems 🚵
 
