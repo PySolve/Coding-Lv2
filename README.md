@@ -42,7 +42,7 @@
 [줄어들지 않아](https://www.acmicpc.net/problem/2688)| Bottom-Up 방식의 DP 문제 | [Solved by Minchan](https://github.com/PySolve/minchan/blob/master/Week2/2688_%EC%A4%84%EC%96%B4%EB%93%A4%EC%A7%80%20%EC%95%8A%EC%95%84.py)
 알약 |경우의 수를 구하는 문제|[Solved by Bumjin](https://github.com/PySolve/bumjin/tree/main/problems/4811_%EC%95%8C%EC%95%BD)|
 [카드구매하기](https://www.acmicpc.net/problem/11052)||[Solved by Yujin](https://github.com/PySolve/Yujin/tree/main/Problems/%EC%B9%B4%EB%93%9C%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0)
-트리와 쿼리||
+[트리와 쿼리](https://www.acmicpc.net/problem/15681)|recursive하게 트리를 탐색하는 문제이다. |[Solved by Bumjin](https://github.com/PySolve/bumjin/tree/main/problems/15681_%ED%8A%B8%EB%A6%AC%EC%99%80%EC%BF%BC%EB%A6%AC)|
 [동전 바꿔주기](https://www.acmicpc.net/problem/2624)||[Solved by Yujin](https://github.com/PySolve/Yujin/tree/main/Problems/%EB%8F%99%EC%A0%84%EB%B0%94%EA%BF%94%EC%A3%BC%EA%B8%B0)
 사탕 줍기 대회||
 전깃줄 ||
