@@ -1,9 +1,3 @@
-- [Coding-Lv2](#coding-lv2)
-  - [Information and Rules](#information-and-rules)
-  - [Schedule](#schedule)
-- [Contents](#contents)
-  - [Graph](#graph)
-  - [DP](#DP)
 # Coding-Lv2
 
 ## Information and Rules 
@@ -17,13 +11,30 @@
   * 문제풀이 최소 3번 시도 : 개당 500원
  
 
+## Next Homewok 📝
+
+⚠️ 다음 주에 각자 숙제와 별개로 두 가지를 해야 합니다. 
+
+1. DP를 활용하는 방법 혹은 사례 찾아서 설명하기 
+2. 각자 2차원 [동전]((https://www.acmicpc.net/problem/2624)) Table에 대해서 발표하기 (본인이 이해하고 있는 방식 이야기 하기)
+
+|Problem|Solution|
+|:-:|:-:|
+|1890_점프|
+|14494_다이나믹이 뭐에요|
+|1789_수들의 합|
+|11723_집합|
+
+
+
 ## Schedule
 
 1. Week1 : Graph 
 2. Week2 : Dynamic Programming 
+3. Week3 : DP One more time
+4. Week4 : DP detail
 
-
-# Contents 
+# Past Problems 🚵
 
 ## Graph 
 
@@ -47,19 +58,5 @@
 사탕 줍기 대회||
 전깃줄 ||
 
-
-## Homewoks 
-
-⚠️ 다음 주에 각자 숙제와 별개로 두 가지를 해야 합니다. 
-
-1. DP를 활용하는 방법 혹은 사례 찾아서 설명하기 
-2. 각자 2차원 [동전]((https://www.acmicpc.net/problem/2624)) Table에 대해서 발표하기 (본인이 이해하고 있는 방식 이야기 하기)
-
-|Problem|Solution|
-|:-:|:-:|
-|1890_점프|
-|14494_다이나믹이 뭐에요|
-|1789_수들의 합|
-|11723_집합|
 
 
