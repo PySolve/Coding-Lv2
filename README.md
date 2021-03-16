@@ -58,7 +58,7 @@
 [카드구매하기](https://www.acmicpc.net/problem/11052)||[Solved by Yujin](https://github.com/PySolve/Yujin/tree/main/Problems/%EC%B9%B4%EB%93%9C%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0)
 [트리와 쿼리](https://www.acmicpc.net/problem/15681)|recursive하게 트리를 탐색하는 문제이다. |[Solved by Bumjin](https://github.com/PySolve/bumjin/tree/main/problems/15681_%ED%8A%B8%EB%A6%AC%EC%99%80%EC%BF%BC%EB%A6%AC)|
 [동전 바꿔주기](https://www.acmicpc.net/problem/2624)||[Solved by Yujin](https://github.com/PySolve/Yujin/tree/main/Problems/%EB%8F%99%EC%A0%84%EB%B0%94%EA%BF%94%EC%A3%BC%EA%B8%B0)
-사탕 줍기 대회||
+[사탕 줍기 대회](https://www.acmicpc.net/problem/5721)|2차원 배열에서 행과 열을 따로 memoization하는 문제|[Solved by Minchan](https://github.com/PySolve/minchan/blob/master/Week3/5721_%EC%82%AC%ED%83%95%20%EC%A4%8D%EA%B8%B0%20%EB%8C%80%ED%9A%8C.py)
 전깃줄 ||
 
 
