@@ -11,7 +11,7 @@
 |Problem|Solution|
 |:-:|:-:|
 |1890_점프(1디피1스터디)|
-|14494_다이나믹이 뭐에요(민찬)|
+|14494_다이나믹이 뭐에요(민찬)|[Solved by Minchan](https://github.com/PySolve/minchan/blob/master/Week4/14494_%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%EC%9D%B4%20%EB%AD%90%EC%98%88%EC%9A%94%3F.py)|
 |1789_수들의 합(유진)|
 |11723_집합(범진)|[Solved by Bumjin](https://github.com/PySolve/bumjin/tree/main/problems/11723_%EC%A7%91%ED%95%A9)|
 |12865_배낭(민준)|
