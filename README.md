@@ -1,21 +1,5 @@
 # Coding Study
 
-
-## Next Homewok 📝
-
-⚠️ 다음 주에 각자 숙제와 별개로 두 가지를 해야 합니다. 
-
-1. DP를 활용하는 **방법 혹은 사례** 찾아서 설명하기 
-2. 각자 2차원 [동전]((https://www.acmicpc.net/problem/2624)) Table에 대해서 **발표하기** (본인이 이해하고 있는 방식 이야기 하기)
-
-|Problem|Solution|
-|:-:|:-:|
-|1890_점프(1디피1스터디)|
-|14494_다이나믹이 뭐에요(민찬)|[Solved by Minchan](https://github.com/PySolve/minchan/blob/master/Week4/14494_%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%EC%9D%B4%20%EB%AD%90%EC%98%88%EC%9A%94%3F.py)|
-|1789_수들의 합(유진)|[Solved by Yujin](https://github.com/PySolve/Yujin/tree/main/Problems/%EC%88%98%EB%93%A4%EC%9D%98%ED%95%A9)
-|11723_집합(범진)|[Solved by Bumjin](https://github.com/PySolve/bumjin/tree/main/problems/11723_%EC%A7%91%ED%95%A9)|
-|12865_배낭(민준)|
-
 --- 
 
 ## Information and Rules 
@@ -34,6 +18,7 @@
 2. Week2 : Dynamic Programming 
 3. Week3 : DP One more time
 4. Week4 : DP detail
+5. Week5 : Samsung Coding Test practice
 
 ---
 
@@ -62,4 +47,20 @@
 전깃줄 ||
 
 
+---
+
+## Finished Homewok 📝
+
+⚠️ 다음 주에 각자 숙제와 별개로 두 가지를 해야 합니다. 
+
+1. DP를 활용하는 **방법 혹은 사례** 찾아서 설명하기 
+2. 각자 2차원 [동전]((https://www.acmicpc.net/problem/2624)) Table에 대해서 **발표하기** (본인이 이해하고 있는 방식 이야기 하기)
+
+|Problem|Solution|
+|:-:|:-:|
+|1890_점프(1디피1스터디)|
+|14494_다이나믹이 뭐에요(민찬)|[Solved by Minchan](https://github.com/PySolve/minchan/blob/master/Week4/14494_%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%EC%9D%B4%20%EB%AD%90%EC%98%88%EC%9A%94%3F.py)|
+|1789_수들의 합(유진)|[Solved by Yujin](https://github.com/PySolve/Yujin/tree/main/Problems/%EC%88%98%EB%93%A4%EC%9D%98%ED%95%A9)
+|11723_집합(범진)|[Solved by Bumjin](https://github.com/PySolve/bumjin/tree/main/problems/11723_%EC%A7%91%ED%95%A9)|
+|12865_배낭(민준)|
 
